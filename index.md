@@ -1,6 +1,6 @@
 ---
 title: "Mes recommandations"
-order: 1
+order: 2
 in_menu: true
 ---
 C'est le moment de lister vos logiciels libres préférés, pour les recommander autour de vous !
